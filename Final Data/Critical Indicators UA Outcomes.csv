@@ -1,0 +1,59 @@
+"","UAAgyConcat","Agency.Number","Agency.Full.Name.y","Unit.of.Appropriation","U.A.Name","Met_Goal","Did_Not_Meet","NA.s","November.Plan","October.Actuals","Vacancy.Rate","Total.s","SuccessPct","Improving","Not_Improving","NA.one","Total.one","ImprovePct","Improving.five","Not_Improving.five","NA","Total","ImprovePct.five"
+"1","1256","125","Department for the Aging","6","IN HOME SERVICES - PS",1,1,0,27,22,0.19,2,0.5,1,1,0,2,0.5,0,2,0,2,0
+"2","1261","126","Department of Cultural Affairs","1","OFFICE OF COMMISSIONER-PS",1,0,0,57,53,0.07,1,1,1,0,0,1,1,1,0,0,1,1
+"3","1561","156","Taxi and Limousine Commission","1","PERSONAL SERVICE",7,1,1,561,448,0.2,8,0.875,4,4,1,9,0.444444444444444,6,2,1,9,0.666666666666667
+"4","171","17","New York City Emergency Management","1","PERSONAL SERVICES",1,3,0,230,193,0.16,4,0.25,1,3,0,4,0.25,0,4,0,4,0
+"5","251","25","Law Department","1","PERSONAL SERVICES",0,2,1,1611,1442,0.11,2,0,1,2,0,3,0.333333333333333,1,2,0,3,0.333333333333333
+"6","301","30","Department of City Planning","1","PERSONAL SERVICES",2,1,0,320,252,0.21,3,0.666666666666667,1,2,0,3,0.333333333333333,1,2,0,3,0.333333333333333
+"7","321","32","Department of Investigation","1","PERSONAL SERVICES",1,0,0,309,229,0.26,1,1,0,1,0,1,0,0,1,0,1,0
+"8","323","32","Department of Investigation","3","INSPECTOR GENERAL-PS",1,0,0,61,47,0.23,1,1,1,0,0,1,1,1,0,0,1,1
+"9","40401","40","Department of Education","401","GE INSTR & SCH LEADERSHIP - PS",1,9,0,63817,61896,0.03,10,0.1,1,9,0,10,0.1,7,3,0,10,0.7
+"10","4040709","40","Department of Education","40709","TWO COMBINED ECE UAS",1,2,0,9127,7051,0.23,3,0.333333333333333,1,2,0,3,0.333333333333333,1,2,0,3,0.333333333333333
+"11","541","54","Civilian Complaint Review Board","1","CCRB-PS",4,3,0,259,206,0.21,7,0.571428571428571,4,3,0,7,0.571428571428571,4,3,0,7,0.571428571428571
+"12","561","56","New York City Police Department","1","OPERATIONS",0,0,12,30154,27172,0.1,0,NA,3,9,0,12,0.25,1,11,0,12,0.0833333333333333
+"13","563","56","Department of Education","3","SCHOOL SAFETY- P.S.",0,0,3,5051,4006,0.21,0,NA,2,1,0,3,0.666666666666667,1,2,0,3,0.333333333333333
+"14","572","57","Fire Department of New York","2","FIRE EXTING AND EMERG RESP",1,1,2,11016,10833,0.02,2,0.5,1,3,0,4,0.25,1,3,0,4,0.25
+"15","579","57","Fire Department of New York","9","EMERGENCY MEDICAL SERVICES-PS",0,3,1,4521,4471,0.01,3,0,0,4,0,4,0,0,4,0,4,0
+"16","681","68","Administration for Children's Services","1","PERSONAL SERVICES",3,6,1,4956,4159,0.16,9,0.333333333333333,4,6,0,10,0.4,7,3,0,10,0.7
+"17","687","68","Administration for Children's Services","7","JUVENILE JUSTICE - PS",3,2,8,1178,810,0.31,5,0.6,6,7,0,13,0.461538461538462,8,5,0,13,0.615384615384615
+"18","69201","69","Human Resources Administration","201","ADMINISTRATION",5,3,1,4452,3646,0.18,8,0.625,4,5,0,9,0.444444444444444,7,2,0,9,0.777777777777778
+"19","69203","69","Human Resources Administration","203","PUBLIC ASSISTANCE",0,3,0,4371,3738,0.15,3,0,1,2,0,3,0.333333333333333,1,2,0,3,0.333333333333333
+"20","69205","69","Human Resources Administration","205","ADULT SERVICES",0,1,2,1988,1535,0.23,1,0,2,1,0,3,0.666666666666667,1,2,0,3,0.333333333333333
+"21","71100","71","Department of Homeless Services","100","SHELTER INTAKE AND PROGRAM - PS",0,0,9,1586,1429,0.1,0,NA,1,8,0,9,0.111111111111111,7,2,0,9,0.777777777777778
+"22","71101","71","Department of Homeless Services","101","ADMINISTRATION - PS",3,0,9,364,279,0.23,3,1,6,6,0,12,0.5,8,4,0,12,0.666666666666667
+"23","722","72","Department of Correction","2","OPERATIONS",1,0,9,7680,7188,0.06,1,1,8,2,0,10,0.8,4,6,0,10,0.4
+"24","7811","781","Department of Probation","1","EXECUTIVE MANAGEMENT",4,0,2,133,119,0.11,4,1,3,3,0,6,0.5,4,2,0,6,0.666666666666667
+"25","7812","781","Department of Probation","2","PROBATION SERVICES",1,0,0,971,884,0.09,1,1,1,0,0,1,1,1,0,0,1,1
+"26","8011","801","Small Business Services","1","DEPT. OF BUSINESS P.S.",0,2,1,208,146,0.3,2,0,1,2,0,3,0.333333333333333,0,3,0,3,0
+"27","8014","801","Small Business Services","4","CONTRACT COMP & BUS. OPP - PS",1,0,0,48,35,0.27,1,1,1,0,0,1,1,1,0,0,1,1
+"28","8063","806","Housing Preservation and Development","3","RENTAL SUBSIDY PROGRAMS - PS",1,0,0,325,296,0.09,1,1,1,0,0,1,1,1,0,0,1,1
+"29","8064","806","Housing Preservation and Development","4","OFFICE OF HOUSING PRESERVATION",0,2,1,1076,873,0.19,2,0,2,1,0,3,0.666666666666667,0,3,0,3,0
+"30","8101","810","Department of Buildings","1","PERSONAL SERVICES",3,4,7,1978,1529,0.23,7,0.428571428571429,8,6,0,14,0.571428571428571,8,6,0,14,0.571428571428571
+"31","816101","816","Department of Health and Mental Hygiene","101","HEALTH ADMINISTRATION - PS",2,0,0,861,707,0.18,2,1,2,0,0,2,1,2,0,0,2,1
+"32","816102","816","Department of Health and Mental Hygiene","102","DISEASE CONTROL - PS",0,3,3,1283,1139,0.11,3,0,1,5,0,6,0.166666666666667,1,5,0,6,0.166666666666667
+"33","816104","816","Department of Health and Mental Hygiene","104","ENVIRONMENTAL HEALTH - PS",0,0,5,1150,978,0.15,0,NA,0,5,0,5,0,3,2,0,5,0.6
+"34","816106","816","Office of Chief Medical Examiner","106","OFFICE OF CHIEF MEDICAL EXAMINER - PS",3,2,0,796,709,0.11,5,0.6,1,4,0,5,0.2,1,4,0,5,0.2
+"35","8262","826","Department of Environmental Protection","2","ENVIRONMENTAL MANAGEMENT",3,0,0,326,299,0.08,3,1,3,0,0,3,1,3,0,0,3,1
+"36","8263","826","Department of Environmental Protection","3","WATER SUP. & WASTEWATER COLL",9,1,0,2861,2244,0.22,10,0.9,5,5,0,10,0.5,7,3,0,10,0.7
+"37","8267","826","Department of Environmental Protection","7","CENTRAL UTILITY",1,1,0,994,783,0.21,2,0.5,0,2,0,2,0,0,2,0,2,0
+"38","8268","826","Department of Environmental Protection","8","WASTEWATER TREATMENT",0,1,0,1815,1646,0.09,1,0,1,0,0,1,1,1,0,0,1,1
+"39","827102","827","Department of Sanitation","102","CLEANING & COLLECTION",2,5,1,7306,7798,-0.07,7,0.285714285714286,4,4,0,8,0.5,2,6,0,8,0.25
+"40","8291","829","Business Integrity Commission","1","PERSONAL SERVICES",2,2,0,82,69,0.16,4,0.5,4,0,0,4,1,2,2,0,4,0.5
+"41","8361","836","Department of Finance","1","ADMINISTRATION & PLANNING",0,4,4,466,395,0.15,4,0,2,6,0,8,0.25,4,4,0,8,0.5
+"42","8363","836","Department of Finance","3","PROPERTY",3,0,0,406,332,0.18,3,1,3,0,0,3,1,3,0,0,3,1
+"43","8365","836","Department of Finance","5","LEGAL",2,0,0,63,52,0.18,2,1,1,1,0,2,0.5,2,0,0,2,1
+"44","8367","836","Department of Finance","7","PARKING VIOLATIONS BUREAU",4,0,0,65,52,0.2,4,1,1,3,0,4,0.25,2,2,0,4,0.5
+"45","8414","841","Department of Transportation","4","TRAFFIC OPERATIONS",7,1,3,1822,1399,0.23,8,0.875,8,3,0,11,0.727272727272727,6,5,0,11,0.545454545454545
+"46","8462","846","Department of Parks and Recreation","2","MAINTENANCE & OPERATIONS",4,4,2,3566,3296,0.08,8,0.5,4,6,0,10,0.4,2,8,0,10,0.2
+"47","8463","846","Department of Parks and Recreation","3","DESIGN & ENGINEERING",0,1,0,635,501,0.21,1,0,0,1,0,1,0,0,1,0,1,0
+"48","8464","846","Department of Parks and Recreation","4","RECREATION SERVICES",0,0,2,382,282,0.26,0,NA,2,0,0,2,1,0,2,0,2,0
+"49","8501","850","Department of Design and Construction","1","PERSONAL SERVICES",1,2,2,1314,1088,0.17,3,0.333333333333333,4,1,0,5,0.8,4,1,0,5,0.8
+"50","8561","856","Department of Citywide Administrative Services","1","HUMAN CAPITAL",1,0,0,300,247,0.18,1,1,1,0,0,1,1,1,0,0,1,1
+"51","856300","856","Department of Citywide Administrative Services","300","ASSET MANAGEMENT-PUBLIC FACILITIES",2,0,0,1180,973,0.18,2,1,0,1,1,2,0,2,0,0,2,1
+"52","856800","856","Department of Citywide Administrative Services","800","CITYWIDE FLEET SERVICES",0,1,0,38,38,0,1,0,1,0,0,1,1,1,0,0,1,1
+"53","8581","858","Office of Technology and Innovation","1","TECHNOLOGY SERVICES - PS",0,0,6,712,674,0.05,0,NA,4,2,0,6,0.666666666666667,4,2,0,6,0.666666666666667
+"54","8583","858","Office of Technology and Innovation","3","ADMIN/OPERATIONS PS",0,0,1,196,138,0.3,0,NA,0,1,0,1,0,1,0,0,1,1
+"55","860100","860","Department of Records and Information Services","100","PERSONAL SERVICES",2,3,0,57,51,0.11,5,0.4,3,2,0,5,0.6,2,3,0,5,0.4
+"56","8661","866","Department of Consumer and Worker Protection","1","ADMINISTRATION",0,0,1,191,180,0.06,0,NA,1,0,0,1,1,0,1,0,1,0
+"57","8662","866","Department of Consumer and Worker Protection","2","LICENSING/ENFORCEMENT",3,0,2,294,229,0.22,3,1,2,3,0,5,0.4,2,3,0,5,0.4
+"58",NA,NA,NA,NA,NA,11,24,22,NA,NA,NA,35,0.314285714285714,34,23,0,57,0.596491228070175,27,30,0,57,0.473684210526316
